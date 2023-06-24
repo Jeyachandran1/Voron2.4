@@ -1,0 +1,19 @@
+{
+    "connection": {
+        "moonraker_url": "http://127.0.0.1",
+        "moonraker_token": "",
+        "bot_token": "MTExODEwNDg0MjMzNDkxMjU0Mg.GA1_9W.rET5VmRM_PB-v0uVtu24segysjOhw2KPn50Mew"
+    },
+    "permission": {
+        "controllers": {
+            "users": ""
+        }
+    },
+    "webcam": {
+        "url": "http://127.0.0.1/webcam/?action=snapshot"
+    },
+    "tmp": {
+        "controller_tag": "jeyachandran"
+    },
+    "tmp_path": "/tmp/MoonCord"
+}
